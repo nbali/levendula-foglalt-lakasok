@@ -1,0 +1,1 @@
+# levendula-foglalt-lakasok
