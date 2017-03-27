@@ -1,4 +1,4 @@
-// length: 165
+// length: 166
 var foglaltLakasokTombA = [
 	"111",
 	"112",
@@ -36,6 +36,7 @@ var foglaltLakasokTombA = [
 	"224",
 	"233",
 	"241",
+	"242",
 	"243",
 	"244",
 	"251",
