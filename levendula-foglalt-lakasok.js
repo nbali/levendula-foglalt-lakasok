@@ -1,4 +1,4 @@
-// length: 193
+// length: 194
 var foglaltLakasokTombA = [
 	"111",
 	"112",
@@ -187,6 +187,7 @@ var foglaltLakasokTombA = [
 	"743",
 	"744",
 	"751",
+	"752",
 	"753",
 	"761",
 	"7F1",
@@ -194,7 +195,7 @@ var foglaltLakasokTombA = [
 	"7F3",
 	"7F4"
 ];
-// length: 237
+// length: 241
 var foglaltLakasokTombB = [
 	"111",
 	"112",
@@ -323,6 +324,7 @@ var foglaltLakasokTombB = [
 	"543",
 	"544",
 	"545",
+	"551",
 	"552",
 	"561",
 	"562",
@@ -375,9 +377,11 @@ var foglaltLakasokTombB = [
 	"743",
 	"744",
 	"745",
+	"751",
 	"752",
 	"753",
 	"761",
+	"762",
 	"7f1",
 	"7f2",
 	"7f3",
@@ -428,6 +432,7 @@ var foglaltLakasokTombB = [
 	"941",
 	"942",
 	"943",
+	"951",
 	"9f1",
 	"9f2",
 	"9f3",
